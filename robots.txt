@@ -1,0 +1,10 @@
+User-Agent: *
+Disallow: 
+
+Sitemap: https://ulastect.github.io/sitemap.html.gz
+Sitemap: https://ulastect.github.io/app/sitemap.html.gz
+Sitemap: https://ulastect.github.io/assets/sitemap.html.gz
+Sitemap: https://ulastect.github.io/css/sitemap.html.gz
+Sitemap: https://ulastect.github.io/includes/sitemap.html.gz
+Sitemap: https://ulastect.github.io/item/sitemap.html.gz
+Sitemap: https://ulastect.github.io/src/sitemap.html.gz
